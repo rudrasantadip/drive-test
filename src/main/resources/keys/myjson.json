@@ -1,0 +1,12 @@
+{
+  "web": {
+    "client_id": "161222630503-pej9e0gofdj6vc8isp4t49nqsdsmh330.apps.googleusercontent.com",
+    "project_id": "uplifted-crow-402513",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "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",
+    "redirect_uris": ["http://localhost:8080/oauth2/callback/google"],
+    "javascript_origins": ["http://localhost:8080"]
+  }
+}

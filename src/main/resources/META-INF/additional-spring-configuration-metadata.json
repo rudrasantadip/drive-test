@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "google.secret.key.path",
+    "type": "java.lang.String",
+    "description": "A description for 'google.secret.key.path'"
+  },
+  {
+    "name": "google.oauth.callback.uri",
+    "type": "java.lang.String",
+    "description": "A description for 'google.oauth.callback.uti'"
+  },
+  {
+    "name": "google.credentials.dir",
+    "type": "java.lang.String",
+    "description": "A description for 'google.credentials.dir'"
+  }
+]}
